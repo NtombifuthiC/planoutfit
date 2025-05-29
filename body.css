@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="header">
+<img src=""/>
+</div>
+<div id="tabs-top">
+<a href="#">FASHION</a>
+<a href="#">STYLE</a>
+<a href="#">LOOK</a>
+</div>
+<div id="main-home">
+<img src="spring.jpg" width="100">
+</div>
+<div id="tabs-bottom">
+<a href="#">Summer</a>
+<a href="#">Spring</a>
+</div>
+</body>
+</html>
